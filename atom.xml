@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Jiachuan-Wang.github.io</id>
+    <title>Jiachuan Wang</title>
+    <updated>2024-03-22T13:26:49.111Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://Jiachuan-Wang.github.io"/>
+    <link rel="self" href="https://Jiachuan-Wang.github.io/atom.xml"/>
+    <subtitle>Reality is merely an illusion, albeit a very persistent one.</subtitle>
+    <logo>https://Jiachuan-Wang.github.io/images/avatar.png</logo>
+    <icon>https://Jiachuan-Wang.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, Jiachuan Wang</rights>
+    <entry>
+        <title type="html"><![CDATA[About Me]]></title>
+        <id>https://Jiachuan-Wang.github.io/post/resume/</id>
+        <link href="https://Jiachuan-Wang.github.io/post/resume/">
+        </link>
+        <updated>2024-02-20T09:39:40.000Z</updated>
+        <summary type="html"><![CDATA[<p>Hello. I am WANG Jiachuan, Elmer. I am a Ph.D. student at the National University of Singapore. I obtained my B.Sc. degrees in Biomedical Informatics from Zhejiang University and the University of Edinburgh. My research interests revolve around understanding neurocomputational mechanisms of cognition, from decoding fMRI data using machine learning methods to modeling learning and memory in behavioral experiments.</p>
+<p>Currently, my focus lies in two projects: 1) modeling spatial learning in rodents and 2) conducting multi-voxel pattern analysis of human memory and emotions.</p>
+<p>In my leisure time, I enjoy reading literature books. I write (essays and novels) regularly and sometimes translate.</p>
+<p><strong>Selected Publications</strong></p>
+<ul>
+<li>Kong X, Shu X, <strong>Wang J</strong>, Liu D, Ni Y, Zhao W, Wang L, Gao Z, Chen J, Yang B, Guo X, Wang Z. Fine-tuning of mTOR signaling by the UBE4B-KLHL22 E3 ubiquitin ligase cascade in brain development. <em><strong>Development</strong></em> 2022; dev.201286. doi: https://doi.org/10.1242/dev.201286 [<a href="https://pubmed.ncbi.nlm.nih.gov/36440598/"><font color="blue">PubMed</font></a>]</li>
+</ul>
+<p>You can learn more about me <a href="https://jiachuan-wang.github.io/post/my-resume/"><strong>here</strong></a>.</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>Hello. I am WANG Jiachuan, Elmer. I am a Ph.D. student at the National University of Singapore. I obtained my B.Sc. degrees in Biomedical Informatics from Zhejiang University and the University of Edinburgh. My research interests revolve around understanding neurocomputational mechanisms of cognition, from decoding fMRI data using machine learning methods to modeling learning and memory in behavioral experiments.</p>
+<p>Currently, my focus lies in two projects: 1) modeling spatial learning in rodents and 2) conducting multi-voxel pattern analysis of human memory and emotions.</p>
+<p>In my leisure time, I enjoy reading literature books. I write (essays and novels) regularly and sometimes translate.</p>
+<p><strong>Selected Publications</strong></p>
+<ul>
+<li>Kong X, Shu X, <strong>Wang J</strong>, Liu D, Ni Y, Zhao W, Wang L, Gao Z, Chen J, Yang B, Guo X, Wang Z. Fine-tuning of mTOR signaling by the UBE4B-KLHL22 E3 ubiquitin ligase cascade in brain development. <em><strong>Development</strong></em> 2022; dev.201286. doi: https://doi.org/10.1242/dev.201286 [<a href="https://pubmed.ncbi.nlm.nih.gov/36440598/"><font color="blue">PubMed</font></a>]</li>
+</ul>
+<p>You can learn more about me <a href="https://jiachuan-wang.github.io/post/my-resume/"><strong>here</strong></a>.</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LTR Predictor: HERV-oriented Alignment Tool]]></title>
+        <id>https://Jiachuan-Wang.github.io/post/ltr-predictor-herv-oriented-alignment-tool/</id>
+        <link href="https://Jiachuan-Wang.github.io/post/ltr-predictor-herv-oriented-alignment-tool/">
+        </link>
+        <updated>2022-01-13T03:16:22.000Z</updated>
+        <summary type="html"><![CDATA[<style type ="text/css">
+body{margin:0;}
+iframe{border: none; margin:0 0; width:100%;}
+</style>
+</head>
+<body>
+<iframe id="myiframe2" src="//player.bilibili.com/player.html?aid=765510152&bvid=BV1Tr4y1v7Xx&cid=483203629&page=1&high_quality=1" scorlling="no" onload="changeFrameHeight2()" frameborder="0"> </iframe>
+<script>
+function changeFrameHeight2(){
+    var ifm=document.getElementById('myiframe2');
+    ifm.height=document.documentElement.clientHeight;
+}
+window.onresize=function(){
+    changeFrameHeight2;
+}
+</script>
+<p>The <strong>top-5 mini-projects</strong> of Biomedical Informatics 3 (BMI3) coursework. Link here: <a href="https://labw.org/bmi3-2021/miniprojects"><font color="blue">https://labw.org/bmi3-2021/miniprojects</font></a>.</p>
+]]></summary>
+        <content type="html"><![CDATA[<style type ="text/css">
+body{margin:0;}
+iframe{border: none; margin:0 0; width:100%;}
+</style>
+</head>
+<body>
+<iframe id="myiframe2" src="//player.bilibili.com/player.html?aid=765510152&bvid=BV1Tr4y1v7Xx&cid=483203629&page=1&high_quality=1" scorlling="no" onload="changeFrameHeight2()" frameborder="0"> </iframe>
+<script>
+function changeFrameHeight2(){
+    var ifm=document.getElementById('myiframe2');
+    ifm.height=document.documentElement.clientHeight;
+}
+window.onresize=function(){
+    changeFrameHeight2;
+}
+</script>
+<p>The <strong>top-5 mini-projects</strong> of Biomedical Informatics 3 (BMI3) coursework. Link here: <a href="https://labw.org/bmi3-2021/miniprojects"><font color="blue">https://labw.org/bmi3-2021/miniprojects</font></a>.</p>
+]]></content>
+    </entry>
+</feed>
