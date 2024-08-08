@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+	<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="initial-scale=1.0,user-scalable=no,minimal-ui" />
+    <title>LTR Predictor: HERV-oriented Alignment Tool | Jiachuan Wang</title>
+<link rel='stylesheet' id='puma-css'  href='https://Jiachuan-Wang.github.io/styles/main.css' type='text/css' media='screen' />
+<link rel='stylesheet' id='puma-css'  href='https://at.alicdn.com/t/font_1306644_jwtuc2zzbrd.css' media='screen' />
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+<script type='text/javascript' src='https://Jiachuan-Wang.github.io/media/scripts/jquery.js'></script>
+<script type='text/javascript' src='https://Jiachuan-Wang.github.io/media/scripts/jquery-migrate.min.js'></script>
+        <script src="https://cdn.bootcss.com/highlight.js/9.15.10/highlight.min.js"></script>
+         <script >hljs.initHighlightingOnLoad();</script>
+         
+
+<link href="https://fonts.cdnfonts.com/css/maulysia" rel="stylesheet">
+<style>
+.p1 {
+font-family: 'Maulysia', sans-serif;
+font-size: 7.5vmax;
+color: white;
+}
+</style>
+</head>
+
+<body class="single single-post postid-3788 single-format-standard">
+	<!--加入跟随滑动的顶部-->
+	<header id="masthead" class="site-header" role="banner">
+		<div class="site-branding">
+			<h1 class="site-title">
+				<a href="https://Jiachuan-Wang.github.io" title="Jiachuan Wang">Jiachuan Wang</a>
+			</h1>
+		</div>
+
+		<a class="primary-nav-trigger" href="javascript:void(0)">
+			<span class="menu-icon"></span>
+		</a>
+		
+	</header>
+		<div class="site-navigation-wrapper">
+		<nav id="site-navigation" class="main-navigation" role="navigation">
+			<ul class="primary-nav">
+                    
+				<li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30"><a title="Home" href="https://Jiachuan-Wang.github.io/post/resume">Home</a></li>
+                
+				<li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30"><a title="Resume" href="https://Jiachuan-Wang.github.io/post/my-resume">Resume</a></li>
+                
+				<li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30"><a title="Publications" href="https://Jiachuan-Wang.github.io/post/publications">Publications</a></li>
+                
+				<li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30"><a title="Contact" href="/post/about">Contact</a></li>
+                
+	
+			</ul>
+		</nav>			
+	</div>
+	<!--跟随滑动的顶部结束-->
+	<div class="surface-content">    <main class="main-content">
+        <section class="section-body">
+                            <header class="section-header u-textAlignCenter">
+                    <h2 class="grap--h2">LTR Predictor: HERV-oriented Alignment Tool</h2>
+                    <div class="block-postMetaWrap">
+                        <time>2022-01-13</time>
+                    </div>
+                </header>
+                <div class="grap">
+					
+					<style type ="text/css">
+body{margin:0;}
+iframe{border: none; margin:0 0; width:100%;}
+</style>
+</head>
+<body>
+<iframe id="myiframe2" src="//player.bilibili.com/player.html?aid=765510152&bvid=BV1Tr4y1v7Xx&cid=483203629&page=1&high_quality=1" scorlling="no" onload="changeFrameHeight2()" frameborder="0"> </iframe>
+<script>
+function changeFrameHeight2(){
+    var ifm=document.getElementById('myiframe2');
+    ifm.height=document.documentElement.clientHeight;
+}
+window.onresize=function(){
+    changeFrameHeight2;
+}
+</script>
+<html>
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<p>The <strong>top-5 mini-projects</strong> of Biomedical Informatics 3 (BMI3) coursework. Link here: <a href="https://labw.org/bmi3-2021/miniprojects"><font color="blue">https://labw.org/bmi3-2021/miniprojects</font></a> <i class="fa fa-link" aria-hidden="true"></i>.</p>
+<!-- more -->
+<h3 id="introduction">Introduction</h3>
+<p>The human genome is rich in retroviruses and retroviral elements integrated during the evolutionary process (Garcia-Montojo et al., 2018). Among human endogenous retroviruses (HERVs), HERV-K is the most transcriptionally active group (Garcia-Montojo et al., 2018). It plays a vital role in embryogenesis, whereas closely related to cancer and neurodegenerative diseases (Grow et al., 2015, Li et al., 2015, Argaw-Denboba et al., 2017). HERVs are repeats with low complexity, making it hard to perform annotation and analysis geared to the genome (Li et al., 2008). Algorithms like cross_match and WindowMasker used to find repeats masked a large quantity of the annotated exons (Li et al., 2008). Here, we have developed a basic local alignment search tool (BLAST)-like algorithm named the LTR predictor, which can perform fast alignment of repeats while supporting custom input of reference sequences. Our test on LTR5_Hs (a type of HERV-K) shows that the LTR predictor has good accuracy and running speed, and can provide inspiration for predicting the genome coordinates of repeat such as HERV.<br>
+The HERV consensus sequences (DF0000471, DF0000472, and DF0000558) were downloaded from Dfam database (https://dfam.org/home). Soft-masked reference sequences of human genome (GRCh38 Genome Reference Consortium Human Reference 38, or hg38) were from UCSC Genome browser (http://genome.ucsc.edu/).</p>
+<h3 id="source-code">Source code</h3>
+<p><a href="https://github.com/Haoninghui/BMI3_Project1">https://github.com/Haoninghui/BMI3_Project1</a></p>
+<h3 id="acknowledgements">Acknowledgements</h3>
+<p>This project was a group work of Biomedical Informatics 3 course with Hao Ninghui. Architecture and acceleration were aided and advised by Yu Zhejian. Many thanks.<br>
+The program tests used the analysis server of ZJE Institute. Thanks for the guidance and feedback from Dr. Wanlu Liu, Dr. Hugo Samano-Sanchez, and teaching assistant Ziwei Xue.</p>
+<h3 id="references">References</h3>
+<p>ARGAW-DENBOBA, A., BALESTRIERI, E., SERAFINO, A., CIPRIANI, C., BUCCI, I., SORRENTINO, R., SCIAMANNA, I., GAMBACURTA, A., SINIBALDI-VALLEBONA, P. AND MATTEUCCI, C. (2017) HERV-K activation is strictly required to sustain CD133+ melanoma cells with  stemness features., Journal of experimental &amp; clinical cancer research : CR, 36(1), p. 20. doi: 10.1186/s13046-016-0485-x.<br>
+GARCIA-MONTOJO, M., DOUCET-O’HARE, T., HENDERSON, L. AND NATH, A. (2018) Human endogenous retrovirus-K (HML-2): a comprehensive review., Critical reviews in microbiology, 44(6), pp. 715–738. doi: 10.1080/1040841X.2018.1501345.<br>
+GROW, E. J., FLYNN, R. A., CHAVEZ, S. L., BAYLESS, N. L., WOSSIDLO, M., WESCHE, D. J., MARTIN, L., WARE, C. B., BLISH, C. A., CHANG, H. Y., PERA, R. A. R. AND WYSOCKA, J. (2015) Intrinsic retroviral reactivation in human preimplantation embryos and pluripotent cells., Nature, 522(7555), pp. 221–225. doi: 10.1038/nature14308.<br>
+LI, W., LEE, M.-H., HENDERSON, L., TYAGI, R., BACHANI, M., STEINER, J., CAMPANAC, E., HOFFMAN, D. A., VON GELDERN, G., JOHNSON, K., MARIC, D., MORRIS, H. D., LENTZ, M., PAK, K., MAMMEN, A., OSTROW, L., ROTHSTEIN, J. AND NATH, A. (2015) Human endogenous retrovirus-K contributes to motor neuron disease., Science translational medicine, 7(307), p. 307ra153. doi: 10.1126/scitranslmed.aac8201.<br>
+LI, X., KAHVECI, T. AND SETTLES, A. M. (2008) A novel genome-scale repeat finder geared towards transposons., Bioinformatics (Oxford, England). England, 24(4), pp. 468–476. doi: 10.1093/bioinformatics/btm613.</p>
+
+                </div>
+
+                <div class="post--keywords" itemprop="keywords">
+					 <a href="https://Jiachuan-Wang.github.io/tag/uZRRdX9Sv/" class="post--keyword" data-title="Algorithm" data-type="post_tag" data-term-id="39">Algorithm</a>  <a href="https://Jiachuan-Wang.github.io/tag/QSrhCKoxva/" class="post--keyword" data-title="Sequence_alignment" data-type="post_tag" data-term-id="39">Sequence_alignment</a>  <a href="https://Jiachuan-Wang.github.io/tag/nAF099ayN/" class="post--keyword" data-title="Python" data-type="post_tag" data-term-id="39">Python</a>  <a href="https://Jiachuan-Wang.github.io/tag/9jdgp1OrB/" class="post--keyword" data-title="Bioinformatics" data-type="post_tag" data-term-id="39">Bioinformatics</a>           </div>
+
+
+
+                      </section>
+    </main>
+</div>
+	<footer class="site-footer u-textAlignCenter">
+    	<div class="footer-branding">
+            <a href="https://Jiachuan-Wang.github.io" title="Jiachuan Wang">Jiachuan Wang</a>
+									<p class="site-description">I&#39;ll see you on the dark side of the moon.</p>
+			         </div>
+		 <hr />
+		 <div class="social-links">
+		                       
+                            
+                           
+                            	
+			<span class="social-link"><a href="https://twitter.com/Jiachuan_W" target="_blank"><i class="iconfont icon-twitter"></i></a></span>	
+			                         
+                           
+                            
+                           
+                            
+                           
+                            
+                           
+                            	
+			<span class="social-link"><a href="https://www.linkedin.com/in/jiachuan-wang-elmer" target="_blank"><i class="iconfont icon-linkedin"></i></a></span>	
+			                         
+                           
+                            
+                           
+                            
+                           
+                            
+                           
+                            
+                           
+                            
+                           
+                            
+                           
+				</div>
+        <div class="footer-copy">
+                Powered by <a href="https://github.com/getgridea/gridea">Gridea</a>
+        </div>
+
+    </footer>
+	<div class="back-to-top u-hide" onclick="backToTop();"><i class="iconfont icon-xiangshang"></i></div>
+
+<script type='text/javascript' src='https://Jiachuan-Wang.github.io/media/scripts/main.js'></script>
+</body>
+</html>

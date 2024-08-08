@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Jiachuan-Wang.github.io</id>
+    <title>Jiachuan Wang</title>
+    <updated>2024-08-08T15:29:24.361Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://Jiachuan-Wang.github.io"/>
+    <link rel="self" href="https://Jiachuan-Wang.github.io/atom.xml"/>
+    <subtitle>Reality is merely an illusion, albeit a very persistent one.</subtitle>
+    <logo>https://Jiachuan-Wang.github.io/images/avatar.png</logo>
+    <icon>https://Jiachuan-Wang.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, Jiachuan Wang</rights>
+    <entry>
+        <title type="html"><![CDATA[About Me]]></title>
+        <id>https://Jiachuan-Wang.github.io/post/resume/</id>
+        <link href="https://Jiachuan-Wang.github.io/post/resume/">
+        </link>
+        <updated>2024-08-08T12:14:43.000Z</updated>
+        <summary type="html"><![CDATA[<html>
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<p>Hello! My name is Wang Jiachuan, Elmer. I am currently pursuing a Ph.D. at the National University of Singapore under the guidance of <a href="https://medicine.nus.edu.sg/phys/research/research-programs/healthy-longevity/tan-yong-yi-andrew/"><font color="blue">Andrew Tan</font></a>, <a href="https://fass.nus.edu.sg/psy/people/libedinsky-camilo/"><font color="blue">Camilo Libedinsky</font></a>, and <a href="https://cde.nus.edu.sg/edic/staff/yen-shih-cheng/"><font color="blue">Shih-Cheng Yen</font></a>. I hold dual B.Sc. degrees in Biomedical Informatics from Zhejiang University and the University of Edinburgh, where I completed my thesis on multi-voxel pattern analysis of human memory and emotions under the supervision of <a href="https://discovery-brain-sciences.ed.ac.uk/our-staff/research-groups/gedi-luksys"><font color="blue">Gedi Lukšys</font></a>. I also conducted a research training project under <a href="http://www.ziint.zju.edu.cn/Anna/index.php/Index/index1.html"><font color="blue">Anna Wang Roe</font></a>, where I contributed to experiments, data analysis, and visualization of Infrared Neural Stimulation (INS) with fMRI.</p>
+<p>My research interests center on the neurocomputational mechanisms underlying cognition, ranging from decoding fMRI data using machine learning techniques to modeling learning and memory in behavioral experiments.</p>
+<p>Recently, I am focused on two projects: 1) modeling spatial learning and associative memory using biologically plausible rules, and 2) investigating the basis of freezing behavior through models of plasticity.</p>
+<p><strong>Selected Publications</strong></p>
+<ul>
+<li>Kong, X., Shu, X., <strong>Wang, J.</strong>, Liu, D., Ni, Y., Zhao, W., Wang, L., Gao, Z., Chen, J., Yang, B., Guo, X. and Wang, Z. (2022) Fine-tuning of mTOR signaling by the UBE4B-KLHL22 E3 ubiquitin ligase cascade in  brain development., <em><strong>Development</strong></em>, 149(24). doi: 10.1242/dev.201286. <a href="https://pubmed.ncbi.nlm.nih.gov/36440598/"><font color="blue"><i class="fa fa-external-link" aria-hidden="true"></i> PubMed</font></a></li>
+</ul>
+<p>You can learn more about me <a href="https://jiachuan-wang.github.io/post/my-resume/"><strong>here</strong></a>.</p>
+]]></summary>
+        <content type="html"><![CDATA[<html>
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<p>Hello! My name is Wang Jiachuan, Elmer. I am currently pursuing a Ph.D. at the National University of Singapore under the guidance of <a href="https://medicine.nus.edu.sg/phys/research/research-programs/healthy-longevity/tan-yong-yi-andrew/"><font color="blue">Andrew Tan</font></a>, <a href="https://fass.nus.edu.sg/psy/people/libedinsky-camilo/"><font color="blue">Camilo Libedinsky</font></a>, and <a href="https://cde.nus.edu.sg/edic/staff/yen-shih-cheng/"><font color="blue">Shih-Cheng Yen</font></a>. I hold dual B.Sc. degrees in Biomedical Informatics from Zhejiang University and the University of Edinburgh, where I completed my thesis on multi-voxel pattern analysis of human memory and emotions under the supervision of <a href="https://discovery-brain-sciences.ed.ac.uk/our-staff/research-groups/gedi-luksys"><font color="blue">Gedi Lukšys</font></a>. I also conducted a research training project under <a href="http://www.ziint.zju.edu.cn/Anna/index.php/Index/index1.html"><font color="blue">Anna Wang Roe</font></a>, where I contributed to experiments, data analysis, and visualization of Infrared Neural Stimulation (INS) with fMRI.</p>
+<p>My research interests center on the neurocomputational mechanisms underlying cognition, ranging from decoding fMRI data using machine learning techniques to modeling learning and memory in behavioral experiments.</p>
+<p>Recently, I am focused on two projects: 1) modeling spatial learning and associative memory using biologically plausible rules, and 2) investigating the basis of freezing behavior through models of plasticity.</p>
+<p><strong>Selected Publications</strong></p>
+<ul>
+<li>Kong, X., Shu, X., <strong>Wang, J.</strong>, Liu, D., Ni, Y., Zhao, W., Wang, L., Gao, Z., Chen, J., Yang, B., Guo, X. and Wang, Z. (2022) Fine-tuning of mTOR signaling by the UBE4B-KLHL22 E3 ubiquitin ligase cascade in  brain development., <em><strong>Development</strong></em>, 149(24). doi: 10.1242/dev.201286. <a href="https://pubmed.ncbi.nlm.nih.gov/36440598/"><font color="blue"><i class="fa fa-external-link" aria-hidden="true"></i> PubMed</font></a></li>
+</ul>
+<p>You can learn more about me <a href="https://jiachuan-wang.github.io/post/my-resume/"><strong>here</strong></a>.</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LTR Predictor: HERV-oriented Alignment Tool]]></title>
+        <id>https://Jiachuan-Wang.github.io/post/ltr-predictor-herv-oriented-alignment-tool/</id>
+        <link href="https://Jiachuan-Wang.github.io/post/ltr-predictor-herv-oriented-alignment-tool/">
+        </link>
+        <updated>2022-01-13T03:16:22.000Z</updated>
+        <summary type="html"><![CDATA[<style type ="text/css">
+body{margin:0;}
+iframe{border: none; margin:0 0; width:100%;}
+</style>
+</head>
+<body>
+<iframe id="myiframe2" src="//player.bilibili.com/player.html?aid=765510152&bvid=BV1Tr4y1v7Xx&cid=483203629&page=1&high_quality=1" scorlling="no" onload="changeFrameHeight2()" frameborder="0"> </iframe>
+<script>
+function changeFrameHeight2(){
+    var ifm=document.getElementById('myiframe2');
+    ifm.height=document.documentElement.clientHeight;
+}
+window.onresize=function(){
+    changeFrameHeight2;
+}
+</script>
+<html>
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<p>The <strong>top-5 mini-projects</strong> of Biomedical Informatics 3 (BMI3) coursework. Link here: <a href="https://labw.org/bmi3-2021/miniprojects"><font color="blue">https://labw.org/bmi3-2021/miniprojects</font></a> <i class="fa fa-link" aria-hidden="true"></i>.</p>
+]]></summary>
+        <content type="html"><![CDATA[<style type ="text/css">
+body{margin:0;}
+iframe{border: none; margin:0 0; width:100%;}
+</style>
+</head>
+<body>
+<iframe id="myiframe2" src="//player.bilibili.com/player.html?aid=765510152&bvid=BV1Tr4y1v7Xx&cid=483203629&page=1&high_quality=1" scorlling="no" onload="changeFrameHeight2()" frameborder="0"> </iframe>
+<script>
+function changeFrameHeight2(){
+    var ifm=document.getElementById('myiframe2');
+    ifm.height=document.documentElement.clientHeight;
+}
+window.onresize=function(){
+    changeFrameHeight2;
+}
+</script>
+<html>
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<p>The <strong>top-5 mini-projects</strong> of Biomedical Informatics 3 (BMI3) coursework. Link here: <a href="https://labw.org/bmi3-2021/miniprojects"><font color="blue">https://labw.org/bmi3-2021/miniprojects</font></a> <i class="fa fa-link" aria-hidden="true"></i>.</p>
+]]></content>
+    </entry>
+</feed>
