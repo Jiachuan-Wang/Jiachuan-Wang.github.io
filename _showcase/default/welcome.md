@@ -5,19 +5,15 @@ date: 2024-01-12 00:01:00 +0800
 ---
 
 <div class="p-4">
-    <h2>Welcome to Showcase!</h2>
+    <h2>Other than Science 🤔</h2>
     <hr />
     <p>
-        <code>Showcase</code> is a page where you can show off almost anything you want. It can be the photo of your pets, your favorite books, your favorite projects, or anything else you want to show to the world.
+        I do writing (essays and novels) and sometimes read literature books.
     </p>
     <p>
-        You can create a new showcase item by creating a new file in the <code>_showcase</code> folder. It gives you the highest flexibility to customize the item using any HTML code.
+        This is a cult novel 😈 I wrote:
     </p>
     <p>
-        Cards are ordered by the <code>date</code> field in the front matter in descending order. The <code>width</code> field is used to determine the width of the card, ranging from 1 to 12.
-        Layout is done by the <a href="https://masonry.desandro.com/" target="_blank">Masonry</a> library.
-    </p>
-    <p>
-        For a tidy layout, it is recommended to set the width of the cards to be either multiple of 3 or multiple of 4 for all cards, except for small badges that do not take up much space (width=1).
+        Jiachuan, Wang. 糜烂学院 [<b><em>The College of Putridity</em></b>]. Singapore: Fusion Publishing Pte. Ltd., 2023. [<a href="https://search.worldcat.org/zh-cn/title/1422303028?oclcNum=1422303028">WorldCat</a>] [<a href="https://books.google.com.sg/books?id=fL6f0AEACAAJ&source=gbs_navlinks_s">Google Books</a>] [<a href="https://book.douban.com/subject/36791131/">Douban</a>]
     </p>
 </div>
