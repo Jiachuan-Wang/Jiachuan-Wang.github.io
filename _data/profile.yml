@@ -1,0 +1,91 @@
+primary_name: "Jiachuan Wang"
+secondary_name: "汪嘉川"
+navbar_name: "Jiachuan Wang"
+
+positions:
+- logo: /assets/images/badges/NUS.png  # Logo is optional
+  name: Graduate Researcher, Ph.D. Student @ NUS
+
+
+email: "jiachuan.wang@u.nus.edu"
+cv_link: /assets/images/docs/JiachuanWang_CV.pdf
+gscholar: KZHJPXAAAAAJ  # This is an example, replace it with your own Google Scholar ID
+twitter: Jiachuan_W  # Do not include the '@' symbol
+
+# wechat_qrcode: /assets/images/etc/wechat.jpg
+# wechat_prompt: >-
+#   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
+linkedin: jiachuan-wang-elmer
+orcid: 0000-0003-0558-1716
+
+short_bio_text_justify: false
+short_bio: >-
+  <p>
+    If the brain is akin to a planet, there are a multitude of unknown territories yet to be explored. At the crux of understanding the brain is one's knowledge of the various functions and processes that allow it to operate. I am deeply fascinated by <b>neuroscience</b> and driven to apply multidisciplinary approaches to unravel these complexities.
+  </p>
+  <p>
+    My research centers on investigating the <b>neurocomputational mechanisms</b> underlying cognition, with the broader goal of building a <b>model of the mind</b>. This work ranges from decoding fMRI data using machine learning techniques to modeling <b>learning and memory</b> through behavioral experiments.
+  </p>
+  <p>
+    I am currently pursuing a Ph.D. at the National University of Singapore under the guidance of <a href="https://nus.edu.sg/lsi/principal-investigators-3/dr-andrew-tan-yong-yi/">Andrew Tan</a>, <a href="https://fass.nus.edu.sg/psy/people/libedinsky-camilo/">Camilo Libedinsky</a>, and <a href="https://cde.nus.edu.sg/edic/staff/yen-shih-cheng/">Shih-Cheng Yen</a>. I hold dual B.Sc. degrees in Biomedical Informatics from Zhejiang University and the University of Edinburgh, where I completed my thesis on multi-voxel pattern analysis of human memory and emotions under the supervision of <a href="https://discovery-brain-sciences.ed.ac.uk/our-staff/research-groups/gedi-luksys">Gedi Lukšys</a>. I also conducted a research training project under <a href="http://www.ziint.zju.edu.cn/Anna/index.php/Index/index1.html">Anna Wang Roe</a>, where I contributed to experiments, data analysis, and visualization of Infrared Neural Stimulation (INS) with fMRI.
+  </p>
+  <p>
+    My current work is focused on developing biologically plausible models of spatial learning and associative memory.
+  </p>
+
+portrait_url: /assets/images/photos/photo.jpg
+portrait_caption: >-
+  #...Hello?
+
+education:
+- name: National University of Singapore
+  logo: /assets/images/badges/NUS.png
+  position: >- 
+    Ph.D. Student in Medicine (Neuroscience and Biostatistics dual Track)
+  date: 2023 - present
+  
+- name: Zhejiang University
+  logo: /assets/images/badges/ZJU.png
+  position: B.Sc. in Bioinformatics
+  date: 2019 - 2023
+  
+- name: The University of Edinburgh
+  logo: /assets/images/badges/UoE.png
+  position: B.Sc. (Hons) in Biomedical Informatics
+  date: 2019 - 2023
+
+awards:
+- name: NUS Research Scholarship
+  date: 2023 - present
+- name: Outstanding Graduates of Zhejiang University
+  date: May. 2023
+- name: Zhejiang University Scholarship
+  date: Dec. 2022
+- name: ZJU-UoE Institute Academic Scholarship (¥40,000)
+  date: Dec. 2022
+
+experience:
+- name: National University of Singapore
+  logo: /assets/images/badges/NUS.png
+  position: >- 
+    Camilo Libedinsky lab, The N.1 Institute for Health</br>
+    Graduate Researcher
+  date: Sep. 2023 - present
+- name: The University of Edinburgh
+  logo: /assets/images/badges/UoE.png
+  position: >- 
+    Gediminas Lukšys lab, Centre for Discovery Brain Sciences</br>
+    Rotated student
+  date: Mar. 2022 - Aug. 2023
+- name: Zhejiang University
+  logo: /assets/images/badges/ZJU.png
+  position: >- 
+    Anna Wang Roe lab, Interdisciplinary Institute of Neuroscience and Technology</br>
+    Rotated student
+  date: Apr. 2021 - Oct. 2021
+- name: Zhejiang University
+  logo: /assets/images/badges/ZJU.png
+  position: >- 
+    Zhiping Wang lab, School of Brain Science and Brain Medicine</br>
+    Rotated student
+  date: Jun. 2020 - Aug. 2020
