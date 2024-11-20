@@ -12,16 +12,17 @@ pub_date:       "2022"
 #  When the cover image is not provided, it will generate a #random colorful bubble images as the cover image using the <code>bubble_visual_hash.js</code> script.
 # cover:          /assets/images/covers/cover3.jpg
 authors:
-  - Zhang, L.
-  - Ma, X.
-  - Wu, Z.
-  - Liu, J.
-  - Gu, C.
-  - Zhu, Z.
-  - <b>Wang, J.</b> 
-  - Shu, W.
-  - Li, K.
-  - Hu, J. and Lv, X. 
+  - Lichen Zhang
+  - Xiaohui Ma
+  - Zhigang Wu
+  - Jiacong Liu
+  - Chen Gu
+  - Ziyue Zhu
+  - Jiachuan Wang
+  - Wenbo Shu
+  - Kai Li
+  - Jian Hu
+  - Xiayi Lv
 links:
   PubMed: https://pubmed.ncbi.nlm.nih.gov/36506779/
 ---

@@ -12,7 +12,15 @@ pub_date:       "2023"
   #When the cover image is not provided, it will generate a random colorful bubble images as the cover image using the <code>bubble_visual_hash.js</code> script.
 # cover:          /assets/images/covers/bc_model.jpg
 authors:
-  - Wang, S., Qiu, Y., Cheng, Y., <b>Wang, J.</b>, Zhu, W., Aydemir, B., Gerstner, W., Sandi, C. and Luksys, G.
+  - Shiqi Wang
+  - Yanran Qiu
+  - Yuchen Cheng
+  - Jiachuan Wang
+  - Wenyuan Zhu
+  - Beste Aydemir
+  - Wulfram Gerstner
+  - Carmen Sandi
+  - Gedi Luksys
 links:
   Poster: /assets/images/docs/EBBS2023_MWM_poster_final.pdf
 ---

@@ -13,7 +13,15 @@ pub_date:       "2023"
 cover:          /assets/images/covers/bc_model.jpg
 
 authors:
-  - Wang, S., <b>Wang, J.</b>, Zhu, W., Cheng, Y., Aydemir, B., Qiu, Y., Gerstner, W., Sandi, C. and Luksys, G.
+  - Shiqi Wang
+  - Jiachuan Wang
+  - Wenyuan Zhu
+  - Yuchen Cheng
+  - Beste Aydemir
+  - Yanran Qiu
+  - Wulfram Gerstner
+  - Carmen Sandi
+  - Gedi Luksys
 links:
   Abstract: https://www.sfn.org/-/media/SfN/Documents/NEW-SfN/Meetings/Neuroscience-2023/Abstracts/Abstract-PDFs/SFN23_Abstracts-PDF-Posters_MON_AM.pdf#page=1146
   Poster (Updated): /assets/images/docs/FENS2024.pdf

@@ -12,7 +12,15 @@ pub_date:       "2024"
   #When the cover image is not provided, it will generate a random colorful bubble images as the cover image using the <code>bubble_visual_hash.js</code> script.
 # cover:          /assets/images/covers/bc_model.jpg
 authors:
-  - Qiu, Y., Wang, S., <b>Wang, J.</b>, Zhu, W., Cheng, Y., Aydemir, B., Gerstner, W., Sandi, C. and Luksys, G.
+  - Yanran Qiu
+  - Shiqi Wang
+  - Jiachuan Wang
+  - Wenyuan Zhu
+  - Yuchen Cheng
+  - Beste Aydemir
+  - Wulfram Gerstner
+  - Carmen Sandi
+  - Gedi Luksys
 links:
   Poster: /assets/images/docs/FENS2024.pdf
 ---
