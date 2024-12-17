@@ -9,7 +9,7 @@ pub:            "Neuroscience 2023: Society for Neuroscience (SfN)"
 pub_date:       "2023"
 
 abstract: >-
-  We performed experiments with two strains of mice learning two versions of the task under different water temperatures. We then implemented a biologically plausible model that uses a combination of border (boundary) cells and place cells. Using computational modeling and parameter estimation, we were able to not only reproduce detailed mouse behaviors but also reveal computational correlates of temperature-based behavioral differences. Our findings provide insights into computational mechanisms underlying spatial navigation in mice and how various modulators influence it.
+  We performed experiments with two strains of mice learning two versions of the Morris water maze task under different water temperatures. We then implemented a biologically plausible model that uses a combination of border (boundary) cells and place cells. Using computational modeling and parameter estimation, we were able to not only reproduce detailed mouse behaviors but also reveal computational correlates of temperature-based behavioral differences.
 cover:          /assets/images/covers/bc_model.jpg
 
 authors:
