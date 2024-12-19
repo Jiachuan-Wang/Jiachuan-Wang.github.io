@@ -11,6 +11,7 @@ images:
 #- src: #https://plus.unsplash.com/premium_photo-1676573201174-75d318b983e8?q=80&w=2664&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
   #desc: What I cannot create, I do not understand.
 - src: https://images.unsplash.com/photo-1505142468610-359e7d316be0?q=80&w=2726&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+  desc: <font color="black">What I cannot</font> create, I do not understand.
 ---
 
 {% include widgets/carousel.html id=page.id images=page.images height=page.height %}
