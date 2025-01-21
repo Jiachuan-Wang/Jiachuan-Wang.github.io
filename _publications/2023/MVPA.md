@@ -1,7 +1,7 @@
 ---
 title:          "Multi-voxel pattern analysis of human emotion and memory guided by Neurosynth"
 date:           2023-05-05 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "The University of Edinburgh"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
