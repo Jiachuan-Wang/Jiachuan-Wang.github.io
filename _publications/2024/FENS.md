@@ -10,7 +10,7 @@ pub_date:       "2024"
 
 #abstract: >-
   #When the cover image is not provided, it will generate a random colorful bubble images as the cover image using the <code>bubble_visual_hash.js</code> script.
-# cover:          /assets/images/covers/bc_model.jpg
+cover:          /assets/images/covers/bc_model.jpg
 authors:
   - Yanran Qiu
   - Shiqi Wang

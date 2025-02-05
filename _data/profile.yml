@@ -18,8 +18,9 @@ twitter: Jiachuan_W  # Do not include the '@' symbol
 linkedin: jiachuan-wang-elmer
 orcid: 0000-0003-0558-1716
 
-short_bio_text_justify: false
+short_bio_text_justify: true
 short_bio: >-
+
   <p>
     If the brain is akin to a planet, there are a multitude of unknown territories yet to be explored. At the crux of understanding the brain is one's knowledge of the various functions and processes that allow it to operate. I am deeply fascinated by <b>neuroscience</b> and driven to apply multidisciplinary approaches to unravel these complexities.
   </p>
