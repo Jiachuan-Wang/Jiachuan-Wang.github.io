@@ -20,19 +20,13 @@ orcid: 0000-0003-0558-1716
 
 short_bio_text_justify: false
 short_bio: >-
+  <p>
+    <b>Learning and memory</b> allow animals to adapt to dynamic environments, but how do different <b>neural substrates</b> contribute to these processes? How do molecular and physiological factors, along with individual differences, shape the <b>acquisition</b> and <b>exploitation</b> of knowledge? To explore these questions, I develop interpretable <b>computational models</b> grounded in theory and experimental data to explain and predict cognitive states and behaviors.
+  </p>
+  <p>
+    I am currently a Ph.D. student at the National University of Singapore, where I study biologically plausible models of spatial learning and associative memory under the supervision of <a href="https://nus.edu.sg/lsi/principal-investigators-3/dr-andrew-tan-yong-yi/">Andrew Tan</a>, <a href="https://fass.nus.edu.sg/psy/people/libedinsky-camilo/">Camilo Libedinsky</a>, and <a href="https://cde.nus.edu.sg/edic/staff/yen-shih-cheng/">Shih-Cheng Yen</a>. Previously, I contributed to fMRI research on human memory with <a href="https://discovery-brain-sciences.ed.ac.uk/our-staff/research-groups/gedi-luksys">Gedi Lukšys</a> and the monkey connectome with <a href="http://www.ziint.zju.edu.cn/Anna/index.php/Index/index1.html">Anna Wang Roe</a>.
+  </p>
 
-      <p>
-        If the brain is akin to a planet, there are a multitude of unknown territories yet to be explored. At the crux of understanding the brain is one's knowledge of the various functions and processes that allow it to operate. I am deeply fascinated by <b>neuroscience</b> and driven to apply multidisciplinary approaches to unravel these complexities.
-      </p>
-      <p>
-        My research investigates the <b>neurocomputational mechanisms</b> of cognition, with the broader goal of building <b>models of the mind</b>.
-      </p>
-      <p>
-        I am pursuing a Ph.D. at the National University of Singapore under <a href="https://nus.edu.sg/lsi/principal-investigators-3/dr-andrew-tan-yong-yi/">Andrew Tan</a>, <a href="https://fass.nus.edu.sg/psy/people/libedinsky-camilo/">Camilo Libedinsky</a>, and <a href="https://cde.nus.edu.sg/edic/staff/yen-shih-cheng/">Shih-Cheng Yen</a>. I hold dual B.Sc. degrees in Biomedical Informatics from Zhejiang University and the University of Edinburgh, where studied multi-voxel pattern analysis of human memory and emotions under <a href="https://discovery-brain-sciences.ed.ac.uk/our-staff/research-groups/gedi-luksys">Gedi Lukšys</a>. I also contributed to fMRI research under <a href="http://www.ziint.zju.edu.cn/Anna/index.php/Index/index1.html">Anna Wang Roe</a>.
-      </p>
-      <p>
-        Currently, I focus on developing biologically plausible models of associative memory.
-      </p>
 
 portrait_url: /assets/images/photos/photo.jpg
 portrait_caption: >-
@@ -81,12 +75,12 @@ experience:
 - name: Zhejiang University
   logo: /assets/images/badges/ZJU.png
   position: >- 
-    Anna Wang Roe lab, Interdisciplinary Institute of Neuroscience and Technology</br>
+    Zhiping Wang lab, School of Brain Science and Brain Medicine</br>
     Rotated student
-  date: Apr. 2021 - Oct. 2021
+  date: Jan. 2022 - Sep. 2022</br>Jun. 2020 - Aug. 2020
 - name: Zhejiang University
   logo: /assets/images/badges/ZJU.png
   position: >- 
-    Zhiping Wang lab, School of Brain Science and Brain Medicine</br>
+    Anna Wang Roe lab, Interdisciplinary Institute of Neuroscience and Technology</br>
     Rotated student
-  date: Jun. 2020 - Aug. 2020
+  date: Apr. 2021 - Oct. 2021
