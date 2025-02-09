@@ -2,7 +2,7 @@
 title:          "Computational model-based analysis of spatial navigation strategies under stress and uncertainty using place, distance and border cells"
 date:           2023-08-1 00:01:00 +0800
 selected:       false
-pub:            "The 50th Meeting of the European Brain and Behaviour Society (EBBS)"
+pub:            "The 50th Meeting of the <b>European Brain and Behaviour Society (EBBS)</b>"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'

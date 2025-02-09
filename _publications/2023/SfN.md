@@ -2,14 +2,14 @@
 title:          "Computational model-based analysis of spatial navigation strategies under stress and uncertainty using place, distance and border cells"
 date:           2023-12-1 00:01:00 +0800
 selected:       true
-pub:            "Neuroscience 2023: Society for Neuroscience (SfN)"
+pub:            "Neuroscience 2023: <b>Society for Neuroscience (SfN)</b>"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2023"
 
 abstract: >-
-  We performed experiments with two strains of mice learning two versions of the Morris water maze task under different water temperatures. We then implemented a biologically plausible model that uses a combination of border (boundary) cells and place cells. Using computational modeling and parameter estimation, we were able to not only reproduce detailed mouse behaviors but also reveal computational correlates of temperature-based behavioral differences.
+  We investigated how stress and uncertainty affect learning in two mouse strains using the Morris water maze and modeled their behavior with a biologically plausible network of border and place cells, revealing computational correlates of temperature-based differences.
 cover:          /assets/images/covers/bc_model.jpg
 
 authors:

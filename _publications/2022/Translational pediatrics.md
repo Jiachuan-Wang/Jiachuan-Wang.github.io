@@ -2,7 +2,7 @@
 title:          "Prevalence of ground glass nodules in preschool children: a cross-sectional study"
 date:           2022-11-1 00:01:00 +0800
 selected:       false
-pub:            "Translational Pediatrics"
+pub:            "<b>Translational Pediatrics</b>"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
