@@ -6,11 +6,12 @@ positions:
 - logo: /assets/images/badges/NUS.png  # Logo is optional
   name: Graduate researcher, Ph.D. student @ NUS
 
-
 email: "jiachuan.wang@u.nus.edu"
 cv_link: /assets/images/docs/JiachuanWang_CV.pdf
 gscholar: KZHJPXAAAAAJ  # This is an example, replace it with your own Google Scholar ID
 twitter: Jiachuan_W  # Do not include the '@' symbol
+
+#bluesky: jiachuanwang.bsky.social
 
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
