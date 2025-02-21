@@ -4,7 +4,7 @@ navbar_name: "Jiachuan Wang"
 
 positions:
 - logo: /assets/images/badges/NUS.png  # Logo is optional
-  name: Graduate researcher, Ph.D. student @ NUS
+  name: Graduate Researcher, Ph.D. Student @ NUS
 
 email: "jiachuan.wang@u.nus.edu"
 cv_link: /assets/images/docs/JiachuanWang_CV.pdf
@@ -53,7 +53,7 @@ education:
 awards:
 - name: NUS Research Scholarship
   date: 2023 - present
-- name: Outstanding Graduates of Zhejiang University
+- name: Outstanding Graduate of Zhejiang University
   date: May. 2023
 - name: Zhejiang University Scholarship
   date: Dec. 2022
@@ -71,17 +71,17 @@ experience:
   logo: /assets/images/badges/UoE.png
   position: >- 
     Gediminas Lukšys lab, Centre for Discovery Brain Sciences</br>
-    Rotated student
+    Rotation Student
   date: Mar. 2022 - Aug. 2023
 - name: Zhejiang University
   logo: /assets/images/badges/ZJU.png
   position: >- 
     Zhiping Wang lab, School of Brain Science and Brain Medicine</br>
-    Rotated student
+    Rotation Student
   date: Jan. 2022 - Sep. 2022</br>Jun. 2020 - Aug. 2020
 - name: Zhejiang University
   logo: /assets/images/badges/ZJU.png
   position: >- 
     Anna Wang Roe lab, Interdisciplinary Institute of Neuroscience and Technology</br>
-    Rotated student
+    Rotation Student
   date: Apr. 2021 - Oct. 2021
