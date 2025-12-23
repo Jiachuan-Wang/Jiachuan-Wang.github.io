@@ -3,8 +3,8 @@ secondary_name: "汪嘉川"
 navbar_name: "Jiachuan Wang"
 
 positions:
-- logo: /assets/images/badges/NUS.png  # Logo is optional
-  name: Graduate Researcher, Ph.D. Student @ NUS
+- name: Graduate Researcher, Ph.D. Candidate @ NUS
+  logo: /assets/images/badges/NUS.png  # Logo is optional
 
 email: "jiachuan.wang@u.nus.edu"
 cv_link: /assets/images/docs/JiachuanWang_CV.pdf
