@@ -3,7 +3,9 @@ secondary_name: "汪嘉川"
 navbar_name: "Jiachuan Wang"
 
 positions:
-- name: Graduate Researcher, Ph.D. Candidate @ NUS
+- name: Graduate Researcher
+- name: Ph.D. Candidate
+- name: National University of Singapore
   logo: /assets/images/badges/NUS.png  # Logo is optional
 
 email: "jiachuan.wang@u.nus.edu"
@@ -22,11 +24,12 @@ orcid: 0000-0003-0558-1716
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    <b>Learning and memory</b> allow animals to adapt to dynamic environments, but how do different <b>neural substrates</b> 🧠 contribute to these processes? How do molecular and physiological factors, along with individual differences, shape the <b>acquisition</b> and <b>exploitation</b> of knowledge? To explore these questions, I develop interpretable <b>computational models</b> 🖥️ grounded in theory and experimental data to explain and predict cognitive states and behaviors.
+    <b>Learning and memory</b> allow animals to adapt to dynamic environments, but how do different <b>neural substrates</b> 🧠 contribute to these processes? How do molecular and physiological factors, along with individual differences, shape the acquisition and exploitation of knowledge? To explore these questions, I develop interpretable <b>computational models</b> 🖥️ grounded in theory and experimental data to explain and predict cognitive states and behaviors.
   </p>
   <p>
-    I am currently a Ph.D. student at the National University of Singapore, where I study biologically plausible models of spatial learning and associative memory under the supervision of <a href="https://nus.edu.sg/lsi/principal-investigators-3/dr-andrew-tan-yong-yi/">Andrew Tan</a>, <a href="https://fass.nus.edu.sg/psy/people/libedinsky-camilo/">Camilo Libedinsky</a>, and <a href="https://cde.nus.edu.sg/edic/staff/yen-shih-cheng/">Shih-Cheng Yen</a>. Previously, I contributed to fMRI research on human memory with <a href="https://discovery-brain-sciences.ed.ac.uk/our-staff/research-groups/gedi-luksys">Gedi Lukšys</a> and the monkey connectome with <a href="http://www.ziint.zju.edu.cn/Anna/index.php/Index/index1.html">Anna Wang Roe</a>.
+      I am currently a Ph.D. student at the National University of Singapore, where I study <b>biologically plausible</b> models of <b>spatial learning</b> and <b>associative memory</b> under the supervision of <a href="https://nus.edu.sg/lsi/principal-investigators-3/dr-andrew-tan-yong-yi/">Andrew Tan</a>, <a href="https://fass.nus.edu.sg/psy/people/libedinsky-camilo/">Camilo Libedinsky</a>, and <a href="https://cde.nus.edu.sg/edic/staff/yen-shih-cheng/">Shih-Cheng Yen</a>. Previously, I contributed to fMRI research on human memory with <a href="https://discovery-brain-sciences.ed.ac.uk/our-staff/research-groups/gedi-luksys">Gedi Lukšys</a> and the monkey connectome with <a href="http://www.ziint.zju.edu.cn/Anna/index.php/Index/index1.html">Anna Wang Roe</a>.
   </p>
+
 
 
 portrait_url: /assets/images/photos/photo.jpg
@@ -37,7 +40,7 @@ education:
 - name: National University of Singapore
   logo: /assets/images/badges/NUS.png
   position: >- 
-    Ph.D. Student in Medicine (Neuroscience and Biostatistics dual Track)
+    Ph.D. Student in Medicine</br>Neuroscience and Biostatistics dual Track
   date: 2023 - present
   
 - name: Zhejiang University
@@ -64,24 +67,24 @@ experience:
 - name: National University of Singapore
   logo: /assets/images/badges/NUS.png
   position: >- 
-    Camilo Libedinsky lab, The N.1 Institute for Health</br>
+    Camilo Libedinsky lab</br>
     Graduate Researcher
   date: Sep. 2023 - present
 - name: The University of Edinburgh
   logo: /assets/images/badges/UoE.png
   position: >- 
-    Gediminas Lukšys lab, Centre for Discovery Brain Sciences</br>
+    Gediminas Lukšys lab</br>
     Research Intern
   date: Mar. 2022 - Aug. 2023
 - name: Zhejiang University
   logo: /assets/images/badges/ZJU.png
   position: >- 
-    Zhiping Wang lab, School of Brain Science and Brain Medicine</br>
+    Zhiping Wang lab</br>
     Research Intern
   date: Jan. 2022 - Sep. 2022</br>Jun. 2020 - Aug. 2020
 - name: Zhejiang University
   logo: /assets/images/badges/ZJU.png
   position: >- 
-    Anna Wang Roe lab, Interdisciplinary Institute of Neuroscience and Technology</br>
+    Anna Wang Roe lab</br>
     Research Intern
   date: Apr. 2021 - Oct. 2021
