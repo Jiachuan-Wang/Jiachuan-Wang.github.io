@@ -21,6 +21,7 @@ authors:
   - Jai S Polepalli
 links:
   Abstract: https://underline.io/events/501/sessions/21895/lecture/144284-unsupervised-hebbian-learning-drives-biologically-interpretable-pattern-separation-in-a-hippocampal-striatal-network?tab=abstract
+  Paper: /assets/images/docs/AAAIw26.pdf
   Poster: https://underline.io/events/501/sessions/21895/lecture/144284-unsupervised-hebbian-learning-drives-biologically-interpretable-pattern-separation-in-a-hippocampal-striatal-network?tab=poster
   Pre-recorded video: https://doi.org/10.48448/jsed-nf31
 ---
