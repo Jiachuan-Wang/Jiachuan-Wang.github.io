@@ -2,7 +2,8 @@
 title:          "Unsupervised Hebbian learning drives biologically interpretable pattern separation in a hippocampal–striatal network"
 date:           2026-09-21 00:01:00 +0800
 selected:       false
-pub:            "<b>AAAI 2026 Workshop</b>"
+pub:            "AAAI Workshop"
+type:           "Conference"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
@@ -13,7 +14,7 @@ abstract: >-
 cover:          /assets/images/covers/AAAI26w fig.svg
 authors:
   - Jiachuan Wang
-  - Vachan Shetru Jagadeesh
+  - Vachan Jagadeesh Shetru 
   - M Ganesh Kumar
   - Camilo Libedinsky
   - Shih-Cheng Yen

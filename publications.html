@@ -6,25 +6,70 @@ body_attr: >-
   data-spy="scroll" data-target="#navbar-year" data-offset="100"
 ---
 
-{% assign pubs_by_year = site.publications | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
+{% assign pubs = site.publications | sort: "date" | reverse %}
+{% assign pubs_by_type = pubs | group_by_exp: "item", "item.type | default: 'Other'" %}
+{% assign type_order = site.data.publication_types.order %}
 
 <div class="row">
     <div class="col-12 col-lg-10">
-        {% for year in pubs_by_year %}
-        {% assign num_papers = year.items | size %}
-        <h2 class="pt-4" id="year-{{ year.name }}">{{ year.name }}</h2>
-        <div class="my-0 p-0 bg-white shadow-sm rounded-xl">
-            {% for item in year.items %}
-                {% include widgets/publication_item.html item=item hide_bottom_border=forloop.last first=forloop.first last=forloop.last %}
-            {% endfor %}
+        {% for ordered_type in type_order %}
+            {% for type_group in pubs_by_type %}
+                {% if type_group.name == ordered_type %}
+        {% assign type_slug = type_group.name | downcase | replace: ' ', '-' %}
+        <div class="my-0 p-0 bg-white shadow-sm rounded-xl mt-4" id="type-{{ type_slug }}">
+            <h6 class="p-2 mb-0 border-bottom border-gray"><i class="fas fa-book"></i> {{ type_group.name }}</h6>
+            <div class="my-0 p-0">
+                {% for item in type_group.items %}
+                    {% include widgets/publication_item.html item=item hide_bottom_border=forloop.last first=forloop.first last=forloop.last %}
+                {% endfor %}
+            </div>
         </div>
+        {% endif %}
+            {% endfor %}
+        {% endfor %}
+        
+        {% for type_group in pubs_by_type %}
+            {% assign type_in_order = false %}
+            {% for ordered_type in type_order %}
+                {% if type_group.name == ordered_type %}
+                    {% assign type_in_order = true %}
+                {% endif %}
+            {% endfor %}
+            {% unless type_in_order %}
+                {% assign type_slug = type_group.name | downcase | replace: ' ', '-' %}
+                <div class="my-0 p-0 bg-white shadow-sm rounded-xl mt-4" id="type-{{ type_slug }}">
+                    <h6 class="p-2 mb-0 border-bottom border-gray"><i class="fas fa-book"></i> {{ type_group.name }}</h6>
+                    <div class="my-0 p-0">
+                        {% for item in type_group.items %}
+                            {% include widgets/publication_item.html item=item hide_bottom_border=forloop.last first=forloop.first last=forloop.last %}
+                        {% endfor %}
+                    </div>
+                </div>
+            {% endunless %}
         {% endfor %}
     </div>
 
     <div class="col-2 d-none d-lg-block">
         <div id="navbar-year" class="nav nav-pills flex-column sticky-top" style="top: 80px">
-            {% for year in pubs_by_year %}
-            <a class="nav-link d-block" href="#year-{{ year.name }}">{{ year.name }}</a>
+            {% for ordered_type in type_order %}
+                {% for type_group in pubs_by_type %}
+                    {% if type_group.name == ordered_type %}
+                        {% assign type_slug = type_group.name | downcase | replace: ' ', '-' %}
+                        <a class="nav-link d-block" href="#type-{{ type_slug }}">{{ type_group.name }}</a>
+                    {% endif %}
+                {% endfor %}
+            {% endfor %}
+            {% for type_group in pubs_by_type %}
+                {% assign type_in_order = false %}
+                {% for ordered_type in type_order %}
+                    {% if type_group.name == ordered_type %}
+                        {% assign type_in_order = true %}
+                    {% endif %}
+                {% endfor %}
+                {% unless type_in_order %}
+                    {% assign type_slug = type_group.name | downcase | replace: ' ', '-' %}
+                    <a class="nav-link d-block" href="#type-{{ type_slug }}">{{ type_group.name }}</a>
+                {% endunless %}
             {% endfor %}
         </div>
     </div>

@@ -2,7 +2,8 @@
 title:          "A biologically plausible computational model of hippocampal neurogenesis and pattern separation in memory"
 date:           2025-07-9 00:01:00 +0800
 selected:       true
-pub:            "<b>Cognitive Computational Neuroscience (CCN)</b>"
+pub:            "Cognitive Computational Neuroscience (CCN)"
+type:           "Conference"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
@@ -13,7 +14,7 @@ abstract: >-
 cover:          /assets/images/covers/model architecture.svg
 authors:
   - Jiachuan Wang
-  - Vachan Shetru Jagadeesh
+  - Vachan Jagadeesh Shetru
   - M Ganesh Kumar
   - Camilo Libedinsky
   - Shih-Cheng Yen

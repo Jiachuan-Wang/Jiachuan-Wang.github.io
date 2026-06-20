@@ -8,12 +8,9 @@ date: 2024-01-12 00:01:00 +0800
     <h2>Other than Science 🤔</h2>
     <hr />
     <p>
-        I write (essays and novels) and sometimes read literature books.
-    </p>
+        I sometimes read books simply to pass the time. Most of what I read are literature books.
+    </p>    
     <p>
-            I've published a cult novel, but I don't want to share it here. 😈 
+        I write essays and novels. I've published a cult novel, though I'd rather not share it here. 😈 
     </p>
-
-
-
 </div>

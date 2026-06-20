@@ -2,7 +2,8 @@
 title:          "Fine-tuning of mTOR signaling by the UBE4B-KLHL22 E3 ubiquitin ligase cascade in brain development"
 date:           2022-12-1 00:01:00 +0800
 selected:       true
-pub:            "<b>Development</b>"
+pub:            "Development"
+type:           "Journal Article"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'

@@ -2,7 +2,8 @@
 title:          "Computational model-based analysis of spatial navigation strategies under stress and uncertainty using place, distance and border cells"
 date:           2023-12-1 00:01:00 +0800
 selected:       true
-pub:            "Neuroscience 2023: <b>Society for Neuroscience (SfN)</b>"
+pub:            "Society for Neuroscience (SfN)"
+type:           "Conference"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
