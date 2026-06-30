@@ -9,9 +9,28 @@ body_attr: >-
 {% assign pubs = site.publications | sort: "date" | reverse %}
 {% assign pubs_by_type = pubs | group_by_exp: "item", "item.type | default: 'Other'" %}
 {% assign type_order = site.data.publication_types.order %}
+{% if site.data.profile.gscholar %}
+    {% if site.data.profile.gscholar contains 'scholar.google' %}
+        {% assign gscholar_url = site.data.profile.gscholar %}
+    {% else %}
+        {% assign gscholar_url = 'https://scholar.google.com/citations?user=' | append: site.data.profile.gscholar %}
+    {% endif %}
+{% endif %}
 
 <div class="row">
     <div class="col-12 col-lg-10">
+        {% if gscholar_url %}
+        <div class="my-0 p-3 bg-white shadow-sm rounded-xl d-flex flex-column flex-md-row align-items-md-center justify-content-between">
+            <div class="mb-3 mb-md-0 pr-md-3">
+                <h6 class="mb-1"><i class="fab fa-google-scholar"></i> Google Scholar Profile</h6>
+                <div class="text-muted">Visit my Google Scholar page for the latest publication updates.</div>
+            </div>
+            <a class="btn btn-primary no-break" target="_blank" rel="noopener" href="{{ gscholar_url }}">
+                View Profile <i class="fas fa-external-link-alt ml-1"></i>
+            </a>
+        </div>
+        {% endif %}
+
         {% for ordered_type in type_order %}
             {% for type_group in pubs_by_type %}
                 {% if type_group.name == ordered_type %}

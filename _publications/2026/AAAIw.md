@@ -1,7 +1,7 @@
 ---
 title:          "Unsupervised Hebbian learning drives biologically interpretable pattern separation in a hippocampal–striatal network"
 date:           2026-09-21 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "AAAI Workshop: Neuro for AI & AI for Neuro"
 type:           "Conference"
 # pub_pre:        "Submitted to "

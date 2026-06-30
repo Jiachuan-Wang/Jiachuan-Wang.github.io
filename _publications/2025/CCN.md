@@ -1,7 +1,7 @@
 ---
 title:          "A biologically plausible computational model of hippocampal neurogenesis and pattern separation in memory"
 date:           2025-07-9 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "Cognitive Computational Neuroscience (CCN)"
 type:           "Conference"
 # pub_pre:        "Submitted to "
