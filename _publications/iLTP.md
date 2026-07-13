@@ -1,8 +1,8 @@
 ---
-title:          "Cerebellin-4 is a selective organizer of hippocampal inhibitory long-term potentiation"
+title:          "Cerebellin-4 organizes hippocampal inhibitory long-term potentiation"
 date:           2026-09-21 00:01:00 +0800
 selected:       false
-pub:            "Neuron."
+pub:            "PNAS."
 type:           "In Preparation"
 show_cover: false
 # pub_pre:        "Submitted to "
@@ -17,7 +17,6 @@ authors:
   - Jiachuan Wang
   - Vincent Tianchu Xiong
   - Vachan Jagadeesh Shetru
-  - Louise Zi Ning Goh
   - Andrew Yong-Yi Tan
   - Jai S Polepalli
 

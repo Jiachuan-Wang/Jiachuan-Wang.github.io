@@ -90,3 +90,19 @@ div.lazy {
 .email-text {
     font-family: Source Code Pro, monospace;
 }
+
+.icon-bluesky {
+    display: inline-block;
+    width: 1.15em;
+    height: 1.15em;
+    vertical-align: -0.25em;
+}
+
+.bluesky-link {
+    padding-left: 0.05rem;
+    padding-right: 1rem;
+}
+
+.bluesky-link-mini {
+    padding-right: 0.25rem;
+}
