@@ -15,6 +15,7 @@ authors:
   - Vachan Jagadeesh Shetru* 
   - Jiachuan Wang*
   - M Ganesh Kumar
+  - Vincent Tianchu Xiong
   - Camilo Libedinsky
   - Shih-Cheng Yen
   - Andrew Yong-Yi Tan
