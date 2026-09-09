@@ -1,10 +1,10 @@
-primary_name: "Jiachuan Wang"
+primary_name: "Jiachuan Wang</br> 汪嘉川"
 secondary_name: "汪嘉川"
 navbar_name: "Jiachuan Wang"
 
 positions:
-- name: Graduate Researcher
-- name: Ph.D. Candidate
+- name: Graduate researcher
+- name: Ph.D. candidate
 - name: National University of Singapore
   logo: /assets/images/badges/NUS.png  # Logo is optional
 
@@ -41,7 +41,7 @@ education:
 - name: National University of Singapore
   logo: /assets/images/badges/NUS.png
   position: >- 
-    Ph.D. Student in Medicine</br>Neuroscience and Biostatistics dual Track
+    Ph.D. candidate in Medicine</br>Dual track in Neuroscience & Biostatistics
   date: 2023 - present
   
 - name: Zhejiang University
@@ -68,23 +68,23 @@ experience:
   logo: /assets/images/badges/NUS.png
   position: >- 
     Camilo Libedinsky lab</br>
-    Graduate Researcher
+    Graduate researcher
   date: Sep. 2023 - present
 - name: The University of Edinburgh
   logo: /assets/images/badges/UoE.png
   position: >- 
     Gediminas Lukšys lab</br>
-    Research Intern
+    Research intern
   date: Mar. 2022 - Aug. 2023
 - name: Zhejiang University
   logo: /assets/images/badges/ZJU.png
   position: >- 
     Zhiping Wang lab</br>
-    Research Intern
+    Research intern
   date: Jan. 2022 - Sep. 2022</br>Jun. 2020 - Aug. 2020
 - name: Zhejiang University
   logo: /assets/images/badges/ZJU.png
   position: >- 
     Anna Wang Roe lab</br>
-    Research Intern
+    Research intern
   date: Apr. 2021 - Oct. 2021
